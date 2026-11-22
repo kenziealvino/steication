@@ -7,4 +7,5 @@ Three areas in Git:
 3. Repository History
 
 My notes:
-- (Add your first note here during Module 01)
+-     Working Directory --(git add)--> Staging Area --(git commit) --> Repository (HEAD)4
+       [Edit Files]               [Pick what to commit]               [saved commits]
